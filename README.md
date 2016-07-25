@@ -1,4 +1,3 @@
-![Gene2farm project] (https://github.com/bioinformatics-ptp/Zanardi/wiki/Images/logog2f.png "Gene2farm project logo")
 
 
 Zanardi: _an open-source pipeline for genomic analyses using SNP array data_
